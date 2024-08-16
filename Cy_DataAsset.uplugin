@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Cy_DataAsset",
+	"Description": "Creation of DataAsset in blueprint",
+	"Category": "Blueprints",
+	"CreatedBy": "CyberAlien",
+	"CreatedByURL": "https://www.cyberaliendev.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Cy_DataAsset",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
